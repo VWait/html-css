@@ -1,0 +1,22 @@
+#block1{
+	width: 400px;
+	height: 150px;
+	border: 1px solid black;
+	background: repeating-linear-gradient(to right, white, white 5px, black 5px, black 10px);
+}
+
+#block2{
+	margin-top: 10px;
+	width: 400px;
+	height: 149px;
+	border: 1px solid black;
+	background: repeating-linear-gradient(white, white 4px, black 4px, black 5px);
+}
+
+#block3{
+	margin-top: 10px;
+	width: 400px;
+	height: 400px;
+	border: 1px solid black;
+	background: repeating-radial-gradient(black, black 3px, white 3px, white 6px);
+}

@@ -1,0 +1,29 @@
+#block1{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+	background: radial-gradient(#96E7FB, #0598ED);
+}
+
+#block2{
+	margin-top: 10px;
+	width: 400px;
+	height: 200px;
+	border: 1px solid black;
+	background: radial-gradient(#96E7FB, #0598ED);
+}
+
+#block3{
+	margin-top: 10px;
+	width: 300px;
+	height: 150px;
+	border: 1px solid black;
+	background: radial-gradient(ellipse closest-side at 40px 40px, #96E7FB, #0598ED);
+}
+
+#block4{
+	margin-top: 10px;
+	width: 300px;
+	height: 170px;
+	border: 1px solid black;
+	background: radial-gradient(circle, black 5%, white 25px 20%, green 50px)

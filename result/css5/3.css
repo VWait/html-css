@@ -1,0 +1,46 @@
+#main{
+	position: absolute;
+	top: 5px;
+	left: 10%;
+	width: 80%;
+	height: calc(100% - 10px);
+}
+
+div{
+	border: 1px solid black;
+}
+
+#b1{
+	position: inherit;
+	width: 100%;
+	height: 80px;
+}
+
+#b2{
+	position: inherit;
+	top: 80px;
+	width: 100px;
+	height: 400px;
+}
+
+#b3{
+	position: inherit;
+	top: 80px;
+	left: 100px;
+	width: 100px;
+	height: 400px;
+}
+
+#b4{
+	position: inherit;
+	top: 80px;
+	width: 100%;
+	height: calc(100% - 120px);
+}
+
+#b5{
+	position: inherit;
+	top: calc(100% - 40px);
+	width: 100%;
+	height: 40px;
+}

@@ -1,0 +1,29 @@
+#block1{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	background: linear-gradient(to bottom, yellow, white);
+}
+
+#block2{
+	position: absolute;
+	left: 10px;
+	top: 120px;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	background: linear-gradient(to left, yellow, white);
+}
+
+#block3{
+	position: absolute;
+	left: 10px;
+	top: 230px;
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background: linear-gradient(to right, red, blue, white, red 200px);
+}
